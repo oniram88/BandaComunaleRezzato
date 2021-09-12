@@ -1,7 +1,7 @@
 ---
 title: Banda
 date: 2015-03-28T14:26:31+01:00
-permalink: labanda
+permalink: /labanda
 ---
 
 {% include figure image_path="/assets/images/banda/bb.jpg" caption="Concerto presso l&#8217;auditorium San Barnaba,

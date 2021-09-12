@@ -2,7 +2,7 @@
 title: Statuto
 date: 2015-03-25T22:36:51+01:00
 author: bandarezzato
-permalink: banda/statuto
+permalink: /banda/statuto
 
 ---
 <h2 align="CENTER">

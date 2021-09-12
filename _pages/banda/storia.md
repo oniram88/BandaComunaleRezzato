@@ -2,7 +2,7 @@
 title: Storia
 date: 2015-03-25T22:38:37+01:00
 author: bandarezzato
-permalink: banda/storia
+permalink: /banda/storia
 
 ---
 

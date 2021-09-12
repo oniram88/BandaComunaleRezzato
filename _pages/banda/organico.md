@@ -2,7 +2,7 @@
 title: Organico
 date: 2015-04-12T09:12:12+01:00
 author: bandarezzato
-permalink: banda/organico
+permalink: /banda/organico
 ---
 {% include figure image_path="/assets/images/banda/organico2-1.jpg" caption="In piazza Loggia con Andrea Tofanelli, Brescia, 29 giugno 2017"%}
 {% include figure image_path="/assets/images/banda/organico-1.jpg" caption="Villa Fenaroli, concerto d&#8217;estate 2010"%}

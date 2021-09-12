@@ -2,7 +2,7 @@
 title: Accademia musicale
 date: 2015-03-25T22:49:11+01:00
 author: bandarezzato
-permalink: accademia-musicale
+permalink: /accademia-musicale
 ---
 ![addademia](/assets/images/accademia-musicale/ztr1000_01.jpeg){: .align-left width="300"}
 L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
