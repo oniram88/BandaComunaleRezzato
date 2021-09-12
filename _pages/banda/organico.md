@@ -1,35 +1,11 @@
 ---
-id: 286
 title: Organico
 date: 2015-04-12T09:12:12+01:00
 author: bandarezzato
 permalink: banda/organico
-
-guid: http://www.bandacomunalerezzato.it/?page_id=286
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
 ---
-<div id="attachment_807" style="width: 630px" class="wp-caption aligncenter">
-  <a href="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg"><img aria-describedby="caption-attachment-807" loading="lazy" class="wp-image-807 size-large" src="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?resize=620%2C414" alt="" width="620" height="414" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?resize=1024%2C683 1024w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?resize=300%2C200 300w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?resize=768%2C512 768w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?resize=216%2C144 216w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?resize=272%2C182 272w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?w=1920 1920w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?w=1240 1240w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico2-1.jpg?w=1860 1860w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-807" class="wp-caption-text">
-    In piazza Loggia con Andrea Tofanelli, Brescia, 29 giugno 2017
-  </p>
-</div>
-
-<div id="attachment_833" style="width: 594px" class="wp-caption aligncenter">
-  <a href="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico-1.jpg"><img aria-describedby="caption-attachment-833" loading="lazy" class="wp-image-833 size-full" src="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico-1.jpg?resize=584%2C384" alt="" width="584" height="384" srcset="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico-1.jpg?w=584 584w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico-1.jpg?resize=300%2C197 300w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/organico-1.jpg?resize=216%2C142 216w" sizes="(max-width: 584px) 100vw, 584px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-833" class="wp-caption-text">
-    Villa Fenaroli, concerto d&#8217;estate 2010
-  </p>
-</div>
-
-&nbsp;
+{% include figure image_path="assets/images/banda/organico2-1.jpg" caption="In piazza Loggia con Andrea Tofanelli, Brescia, 29 giugno 2017"%}
+{% include figure image_path="assets/images/banda/organico-1.jpg" caption="Villa Fenaroli, concerto d&#8217;estate 2010"%}
 
 <span style="text-decoration: underline;"><strong>Organico completo al 01.02.2020</strong></span>
 

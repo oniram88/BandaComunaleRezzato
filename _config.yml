@@ -36,6 +36,7 @@ exclude:
   - gemfiles/
 include:
   - "_pages"
+  - "assets"
 
 
 defaults:

@@ -1,16 +1,9 @@
 ---
-id: 23
 title: Statuto
 date: 2015-03-25T22:36:51+01:00
 author: bandarezzato
+permalink: banda/statuto
 
-guid: http://banda.host-goog.dyndns.org/?page_id=23
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
 ---
 <h2 align="CENTER">
   &nbsp;<strong>Statuto dell&#8217;Associazione</strong>

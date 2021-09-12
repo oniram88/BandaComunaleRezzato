@@ -18,3 +18,9 @@ side_banda:
         url: /banda/il-maestro
       - title: "Galleria"
         url: /banda/galleria
+      - title: "Regolamento"
+        url: /banda/regolamento
+      - title: "Statuto"
+        url: /banda/statuto
+      - title: "Storia"
+        url: /banda/storia

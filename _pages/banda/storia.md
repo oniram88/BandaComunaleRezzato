@@ -1,24 +1,12 @@
 ---
-id: 25
 title: Storia
 date: 2015-03-25T22:38:37+01:00
 author: bandarezzato
+permalink: banda/storia
 
-guid: http://banda.host-goog.dyndns.org/?page_id=25
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
 ---
-<div id="attachment_26" style="width: 410px" class="wp-caption alignleft">
-  <a href="https://i2.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/03/storia-big.jpg"><img aria-describedby="caption-attachment-26" loading="lazy" class="wp-image-26 size-full" src="https://i2.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/03/storia-big.jpg?resize=400%2C300" alt="Banda Storica 1936" width="400" height="300" srcset="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/storia-big.jpg?w=400 400w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/storia-big.jpg?resize=300%2C225 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-26" class="wp-caption-text">
-    La Banda di Rezzato nel 1936
-  </p>
-</div>
+
+{% include figure image_path="assets/images/banda/storia-big.jpg" caption="La Banda di Rezzato nel 1936"%}
 
 Le prime notizie sull&#8217;attività di un gruppo&nbsp;bandistico a Rezzato risalgono al periodo del sacerdozio di don Giuseppe Beatrici (parroco di Rezzato dal 1906 al 1921).&nbsp;Questo piccolo gruppo musicale nacque&nbsp;in seno alla parrocchia&nbsp;probabilmente nello stesso&nbsp;1908, anno&nbsp;in cui il parroco riuscì a dare vita anche ad una Schola Cantorum.
 
@@ -90,11 +78,3 @@ Solo nell&#8217;estate del **1984**, l’Amministrazione comunale di Rezzato, co
     dal 2019 Marco REGOSA di Brescia
   </li>
 </ul>
-
-<div>
-  <ol>
-    <li style="list-style-type: none;">
-      &nbsp;
-    </li>
-  </ol>
-</div>
