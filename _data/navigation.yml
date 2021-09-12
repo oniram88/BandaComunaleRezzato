@@ -1,8 +1,20 @@
 # main links
 main:
+  - title: "Banda"
+    url: labanda
   - title: "Accademia Musicale"
-    url: /accademia-musicale/
+    url: /accademia-musicale
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+side_banda:
+  - title: La Banda
+    children:
+      - title: "Organico"
+        url: /banda/organico
+      - title: "Il Maestro"
+        url: /banda/il-maestro
+      - title: "Galleria"
+        url: /banda/galleria

@@ -1,19 +1,13 @@
 ---
-id: 111
 title: Banda
 date: 2015-03-28T14:26:31+01:00
-author: bandarezzato
-
-guid: http://banda.host-goog.dyndns.org/?page_id=111
-image: /wp-content/uploads/2015/09/12019852_512140285629102_6182185105710456962_n-672x372.jpg
+permalink: labanda
+sidebar:
+  nav: "side_banda"
 ---
-<div id="attachment_813" style="width: 970px" class="wp-caption aligncenter">
-  <a href="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg"><img aria-describedby="caption-attachment-813" loading="lazy" class="wp-image-813 size-full" src="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg?resize=620%2C413" alt="" width="620" height="413" srcset="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg?w=960 960w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg?resize=300%2C200 300w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg?resize=768%2C512 768w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg?resize=216%2C144 216w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/03/bb.jpg?resize=272%2C182 272w" sizes="(max-width: 620px) 100vw, 620px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-813" class="wp-caption-text">
-    Concerto presso l&#8217;auditorium San Barnaba, Brescia, 11 marzo 2017
-  </p>
-</div>
+
+{% include figure image_path="wp-content/uploads/2015/03/bb.jpg" 
+  caption="Concerto presso l&#8217;auditorium San Barnaba, Brescia, 11 marzo 2017" %}
 
 Da sempre la musica, sin dagli albori della civiltà umana, ha accompagnato la vita delle persone. Essa, nella preistoria, aveva un valore religioso, era utilizzata come mezzo di comunicazione con l’aldilà. Nel corso della storia, la musica ha mantenuto questa funzione, alla quale si sono aggiunti il valore artistico (ovvero il riconoscimento della musica come arte) e la funzione di canale di comunicazione delle proprie emozioni.&nbsp;
 

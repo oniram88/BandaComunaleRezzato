@@ -3,6 +3,7 @@ id: 286
 title: Organico
 date: 2015-04-12T09:12:12+01:00
 author: bandarezzato
+permalink: banda/organico
 
 guid: http://www.bandacomunalerezzato.it/?page_id=286
 lucida-layout-option:

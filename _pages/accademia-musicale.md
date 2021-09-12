@@ -13,7 +13,8 @@ lucida-featured-image:
   - default
 ---
 <p style="text-align: justify;">
-  <a href="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg"><img loading="lazy" class="size-medium wp-image-319 alignright" src="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?resize=300%2C227" alt="" width="300" height="227" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?resize=300%2C227 300w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?w=1015 1015w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
+  <a href="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg">
+<img loading="lazy" class="size-medium wp-image-319 alignright" src="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?resize=300%2C227" alt="" width="300" height="227" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?resize=300%2C227 300w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?w=1015 1015w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
 </p>
 
 <p style="text-align: justify;">

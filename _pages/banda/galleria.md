@@ -3,6 +3,7 @@ id: 187
 title: Photogallery
 date: 2015-04-04T13:39:20+01:00
 author: bandarezzato
+permalink: banda/galleria
 
 guid: http://banda.host-goog.dyndns.org/?page_id=187
 lucida-layout-option:

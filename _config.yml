@@ -4,10 +4,11 @@ description: ""
 locale: 'it'
 repository: oniram88/BandaComunaleRezzato
 
-teaser: '/assets/images/header/default.jpg'
+teaser: '/assets/images/header_default.jpg'
 logo: "/assets/images/logo.png"
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -45,3 +46,9 @@ defaults:
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: "_pages/banda"
+      type: pages
+    values:
+      sidebar:
+        nav: "side_banda"

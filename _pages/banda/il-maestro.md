@@ -3,6 +3,7 @@ id: 115
 title: Maestro
 date: 2015-03-28T14:30:54+01:00
 author: bandarezzato
+permalink: banda/il-maestro
 
 guid: http://banda.host-goog.dyndns.org/?page_id=115
 lucida-layout-option:
