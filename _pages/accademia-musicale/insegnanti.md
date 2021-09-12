@@ -1,10 +1,8 @@
 ---
-id: 43
 title: Insegnanti
 date: 2015-03-28T14:04:18+01:00
 author: bandarezzato
-
-guid: http://banda.host-goog.dyndns.org/?page_id=43
+permalink: accademia-musicale/insegnanti
 ---
 <div class="menu-insegnanti-container">
   <ul id="short_menu_6129e06d8d6da" class="shortcode_menu insegnanti wpsm-menu wpsm-vertical menu_enhance  ">

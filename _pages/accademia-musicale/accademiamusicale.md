@@ -1,43 +1,23 @@
 ---
-id: 32
 title: Accademia musicale
 date: 2015-03-25T22:49:11+01:00
 author: bandarezzato
-
-guid: http://banda.host-goog.dyndns.org/?page_id=32
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
+permalink: accademia-musicale
 ---
-<p style="text-align: justify;">
-  <a href="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg">
-<img loading="lazy" class="size-medium wp-image-319 alignright" src="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?resize=300%2C227" alt="" width="300" height="227" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?resize=300%2C227 300w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/ztr1000_01.jpeg?w=1015 1015w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
-</p>
+![addademia](/assets/images/accademia-musicale/ztr1000_01.jpeg){: .align-left width="300"}
+L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
 
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;">Età minima</span>: classe 1a elementare (6 anni).
-</p>
+**Età minima**: classe 1a elementare (6 anni).  
 
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;">Lezioni</span>: per i bambini di 1a, 2a e 3a elementare sono attivati i corsi di giochi musicali e propedeutici (1 ora a settimana). Per i ragazzi di 4a e 5a elementare e dalle medie in poi sono previste settimanalmente una lezione individuale di strumento (della durata di 45 minuti) e una lezione di ritmica e musica d&#8217;insieme (della durata di 1 ora).
-</p>
+**Lezioni**: per i bambini di 1a, 2a e 3a elementare sono attivati i corsi di giochi musicali e propedeutici (1 ora a settimana). Per i ragazzi di 4a e 5a elementare e dalle medie in poi sono previste settimanalmente una lezione individuale di strumento (della durata di 45 minuti) e una lezione di ritmica e musica d&#8217;insieme (della durata di 1 ora).
 
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;">Corsi di strumento</span>: clarinetto, corno, fagotto, flauto, oboe, percussioni, sax, tromba, trombone.
-</p>
+**Corsi di strumento**: clarinetto, corno, fagotto, flauto, oboe, percussioni, sax, tromba, trombone.  
 
-<p style="text-align: justify;">
-  <span style="text-decoration: underline;">Inizio delle lezioni</span>: prima settimana di ottobre&nbsp;(iscrizioni aperte durante il&nbsp;mese di settembre).
-</p>
+**Inizio delle lezioni**: prima settimana di ottobre&nbsp;(iscrizioni aperte durante il&nbsp;mese di settembre).  
 
-<span style="text-decoration: underline;">Regolamento</span>:&nbsp;[Regolamento dell&#8217;Accademia musicale](http://www.bandacomunalerezzato.it/wp-content/uploads/2018/08/REGOLAMENTO-ACCADEMIA-UFFICIALE.pdf) 
+**Regolamento**: [Regolamento dell&#8217;Accademia musicale](/assets/accademia-musicale/REGOLAMENTO-ACCADEMIA-UFFICIALE.pdf) 
 
 PER INFORMAZIONI: la segreteria è aperta il&nbsp;**martedì** e il **venerdì**&nbsp;**dalle 17:00 alle 19:00** (numero di telefono attivo solo durante gli orari di segreteria: 388 9208642). In alternativa scrivere all&#8217;indirizzo mail cda@bandacomunalerezzato.it .&nbsp;
-
-&nbsp;
 
 <p style="text-align: center;">
   <strong><span style="text-decoration: underline;">STRUMENTI, ATTIVITA&#8217; e BORSE DI STUDIO</span></strong>

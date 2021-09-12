@@ -47,9 +47,24 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # pagine della banda
   - scope:
       path: "_pages/banda"
       type: pages
     values:
       sidebar:
         nav: "side_banda"
+  # pagine dell'accademia
+  - scope:
+      path: "_pages/accademia-musicale"
+      type: pages
+    values:
+      sidebar:
+        nav: "side_accademia"
+
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/bandacomunalerezzato"

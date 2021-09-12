@@ -6,7 +6,7 @@ permalink: banda/storia
 
 ---
 
-{% include figure image_path="assets/images/banda/storia-big.jpg" caption="La Banda di Rezzato nel 1936"%}
+{% include figure image_path="/assets/images/banda/storia-big.jpg" caption="La Banda di Rezzato nel 1936"%}
 
 Le prime notizie sull&#8217;attività di un gruppo&nbsp;bandistico a Rezzato risalgono al periodo del sacerdozio di don Giuseppe Beatrici (parroco di Rezzato dal 1906 al 1921).&nbsp;Questo piccolo gruppo musicale nacque&nbsp;in seno alla parrocchia&nbsp;probabilmente nello stesso&nbsp;1908, anno&nbsp;in cui il parroco riuscì a dare vita anche ad una Schola Cantorum.
 

@@ -24,3 +24,11 @@ side_banda:
         url: /banda/statuto
       - title: "Storia"
         url: /banda/storia
+
+side_accademia:
+  - title: Accademia Musicale
+    children:
+      - title: "L'accademia"
+        url: /accademia-musicale
+      - title: "Insegnanti"
+        url: /accademia-musicale/insegnanti
