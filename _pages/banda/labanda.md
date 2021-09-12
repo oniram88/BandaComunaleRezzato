@@ -6,7 +6,7 @@ sidebar:
   nav: "side_banda"
 ---
 
-{% include figure image_path="wp-content/uploads/2015/03/bb.jpg" 
+{% include figure image_path="assets/images/banda/bb.jpg" 
   caption="Concerto presso l&#8217;auditorium San Barnaba, Brescia, 11 marzo 2017" %}
 
 Da sempre la musica, sin dagli albori della civiltà umana, ha accompagnato la vita delle persone. Essa, nella preistoria, aveva un valore religioso, era utilizzata come mezzo di comunicazione con l’aldilà. Nel corso della storia, la musica ha mantenuto questa funzione, alla quale si sono aggiunti il valore artistico (ovvero il riconoscimento della musica come arte) e la funzione di canale di comunicazione delle proprie emozioni.&nbsp;
