@@ -38,6 +38,11 @@ include:
   - "_pages"
   - "assets"
 
+collections:
+  insegnanti:
+    output: true
+    sort_by: cognome_nome
+    permalink: /accademia-musicale/:collection/:path/
 
 defaults:
   # _pages
@@ -59,6 +64,14 @@ defaults:
       path: "_pages/accademia-musicale"
       type: pages
     values:
+      sidebar:
+        nav: "side_accademia"
+  # pagine per gli insegnanti
+  - scope:
+      path: ""
+      type: insegnanti
+    values:
+      layout: single
       sidebar:
         nav: "side_accademia"
 
