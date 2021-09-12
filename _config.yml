@@ -7,8 +7,8 @@ repository: oniram88/BandaComunaleRezzato
 teaser: '/assets/images/header_default.jpg'
 logo: "/assets/images/logo.png"
 # Build settings
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
