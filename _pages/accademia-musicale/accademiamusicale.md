@@ -15,7 +15,7 @@ L'<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone co
 
 **Inizio delle lezioni**: prima settimana di ottobre&nbsp;(iscrizioni aperte durante il&nbsp;mese di settembre).  
 
-**Regolamento**: <a href="{{'/assets/files/REGOLAMENTO-ACCADEMIA-UFFICIALE.pdf' | relative_url}}">Regolamento dell&#8217;Accademia musicale</a> 
+**Regolamento**: <a href="{{'/assets/files/REGOLAMENTO-ACCADEMIA-UFFICIALE.pdf' | relative_url}}" target="_blank">Regolamento dell&#8217;Accademia musicale</a> 
 
 PER INFORMAZIONI: la segreteria è aperta il&nbsp;**martedì** e il **venerdì**&nbsp;**dalle 17:00 alle 19:00** (numero di telefono attivo solo durante gli orari di segreteria: 388 9208642). In alternativa scrivere all&#8217;indirizzo mail cda@bandacomunalerezzato.it .&nbsp;
 
