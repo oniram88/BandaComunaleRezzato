@@ -5,6 +5,6 @@ author: Luca Reboldi
 permalink: /banda/regolamento
 
 ---
-[REGOLAMENTO INTERNO DELLA BANDA COMUNALE DI REZZATO](/assets/files/REGOLAMENTO-INTERNO-DELLA-BANDA-MUSICALE-BOZZA-seconda-versione-corretta-Luca.pdf)
+<a href="{{'/assets/files/REGOLAMENTO-INTERNO-DELLA-BANDA-MUSICALE-BOZZA-seconda-versione-corretta-Luca.pdf' | relative_url}}">REGOLAMENTO INTERNO DELLA BANDA COMUNALE DI REZZATO</a>
 
-(approvato dal Consiglio Direttivo il 19.02.2019 e dall&#8217;Assemblea dei Soci il 17.04.2019)
+(approvato dal Consiglio Direttivo il 19.02.2019 e dall'Assemblea dei Soci il 17.04.2019)

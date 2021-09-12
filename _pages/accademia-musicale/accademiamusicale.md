@@ -4,8 +4,8 @@ date: 2015-03-25T22:49:11+01:00
 author: bandarezzato
 permalink: /accademia-musicale
 ---
-![addademia](/assets/images/accademia-musicale/ztr1000_01.jpeg){: .align-left width="300"}
-L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
+<img src="{{ '/assets/images/accademia-musicale/ztr1000_01.jpeg' | relative_url }}" class="align-left" width="300" />
+L'<strong>Accademia musicale</strong> della Banda Comunale di Rezzato propone corsi di musica per strumenti a fiato e percussione.
 
 **Età minima**: classe 1a elementare (6 anni).  
 
@@ -15,7 +15,7 @@ L&#8217;<strong>Accademia musicale</strong> della Banda Comunale di Rezzato prop
 
 **Inizio delle lezioni**: prima settimana di ottobre&nbsp;(iscrizioni aperte durante il&nbsp;mese di settembre).  
 
-**Regolamento**: [Regolamento dell&#8217;Accademia musicale](/assets/accademia-musicale/REGOLAMENTO-ACCADEMIA-UFFICIALE.pdf) 
+**Regolamento**: <a href="{{'/assets/files/REGOLAMENTO-ACCADEMIA-UFFICIALE.pdf' | relative_url}}">Regolamento dell&#8217;Accademia musicale</a> 
 
 PER INFORMAZIONI: la segreteria è aperta il&nbsp;**martedì** e il **venerdì**&nbsp;**dalle 17:00 alle 19:00** (numero di telefono attivo solo durante gli orari di segreteria: 388 9208642). In alternativa scrivere all&#8217;indirizzo mail cda@bandacomunalerezzato.it .&nbsp;
 
