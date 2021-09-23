@@ -87,7 +87,13 @@ defaults:
       layout: single
       sidebar:
         nav: "side_banda"
-
+  - scope:
+      path: "_pages/informazioni"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "side_contatti"
 
 footer:
   links:

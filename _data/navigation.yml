@@ -4,6 +4,8 @@ main:
     url: labanda
   - title: "Accademia Musicale"
     url: /accademia-musicale
+  - title: "Contatti"
+    url: /contatti
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -11,6 +13,7 @@ main:
 
 side_banda:
   - title: La Banda
+    url: /labanda
     children:
       - title: "Organico"
         url: /banda/organico
@@ -26,6 +29,10 @@ side_banda:
         url: /banda/storia
       - title: "Concerti"
         url: /banda/concerti
+      - title: "Trasparenza"
+        url: /trasparenza
+      - title: Rassegna Stampa
+        url: /rassegna_stampa
 
 side_accademia:
   - title: Accademia Musicale
@@ -34,3 +41,12 @@ side_accademia:
         url: /accademia-musicale
       - title: "Insegnanti"
         url: /accademia-musicale/insegnanti
+
+side_contatti:
+  - title: Contatti
+    url: /contatti
+    children:
+      - title: CDA
+        url: /informazioni/cda
+      - title: Link Utili
+        url: /informazioni/link_utili

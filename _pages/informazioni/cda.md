@@ -1,16 +1,7 @@
 ---
-id: 262
 title: Consiglio Direttivo
 date: 2015-04-12T09:03:13+01:00
-author: bandarezzato
-
-guid: http://www.bandacomunalerezzato.it/?page_id=262
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
+permalink: /informazioni/cda
 ---
 <div>
   L&#8217;attuale <strong>Consiglio Direttivo</strong> è stato&nbsp;eletto in occasione dell&#8217;Assemblea dei Soci&nbsp;del <strong>27&nbsp;novembre 2019</strong>. Il Consiglio rimane in carica per&nbsp;tre anni.
@@ -25,9 +16,9 @@ lucida-featured-image:
 </div>
 
 <div>
-  <table style="width: 505px; height: 160px;" border="1" cellspacing="0">
-    <tr style="height: 22px;">
-      <td style="width: 151.296875px; height: 22px;">
+  <table>
+    <tr>
+      <td>
         &nbsp;Presidente
       </td>
       
@@ -98,9 +89,7 @@ lucida-featured-image:
   </table>
 </div>
 
-<div>
-  <a href="http://www.bandacomunalerezzato.it/wp-content/uploads/2019/12/verbale-elezioni-2019_compressed.pdf">verbale elezioni 27.11.2019</a>
-</div>
+[verbale elezioni 27.11.2019](../assets/files/verbale-elezioni-2019_compressed.pdf)
 
 &nbsp;
 
