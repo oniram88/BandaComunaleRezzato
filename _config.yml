@@ -35,6 +35,7 @@ exclude:
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
+  - .github
 include:
   - "_pages"
   - "assets"
