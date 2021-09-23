@@ -24,7 +24,10 @@ fi
 echo "----------------------->"
 
 echo "Siamo nella cartella con i sorgenti ${PWD}"
-ls -l
+ls -la
+echo "Creiamo le cartelle che potrebbero mancare"
+mkdir -p .jekyll-cache
+chmod 777 .jekyll-cache
 
 echo "<-----------------------"
 # Install all of our dependencies inside the container
