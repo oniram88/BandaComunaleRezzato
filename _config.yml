@@ -11,6 +11,7 @@ logo: "/assets/images/logo.png"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-include-cache
