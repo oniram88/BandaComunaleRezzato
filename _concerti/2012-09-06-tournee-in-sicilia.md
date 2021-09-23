@@ -1,32 +1,11 @@
 ---
-id: 234
 title: Tournée in Sicilia
 date: 2012-09-06T00:00:23+01:00
-author: bandarezzato
-layout: single
-guid: http://banda.host-goog.dyndns.org/?p=234
-permalink: /tournee-in-sicilia/
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
-categories:
-  - Concerti
-tags:
-  - gita
-  - speciali
 ---
 **Un viaggio di crescita culturale e civile**
 
-<div id="attachment_237" style="width: 235px" class="wp-caption alignleft">
-  <a href="https://i2.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/04/sicilia_P1040346.jpg"><img aria-describedby="caption-attachment-237" loading="lazy" class="wp-image-237 size-medium" src="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040346.jpg?resize=225%2C300" alt="sicilia_P1040346" width="225" height="300" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040346.jpg?resize=225%2C300 225w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040346.jpg?resize=768%2C1024 768w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040346.jpg?w=1024 1024w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-237" class="wp-caption-text">
-    Fermata al monumento in memoria di Giovanni Falcone a Capaci.
-  </p>
-</div>
+{% include figure image_path="/assets/images/concerti/sicilia_munumento_giovanni_falcone.jpg" caption="Fermata al monumento in memoria di Giovanni Falcone a Capaci."%}
+
 
 Dal 6 al 10 **settembre 2012** la Banda Comunale di Rezzato si è recata in trasferta in Sicilia per una serie di concerti. La partenza è avvenuta da Rezzato, per l’aeroporto “Orio Al Serio” di Bergamo, destinazione Palermo. Alle ore 12.45 la Banda è giunta all’aeroporto “Punta Raisi”.  
 Quando qui atterriamo è una giornata di sole e di vento, che con gran forza sposta grosse nubi bianche nell’azzurro cielo siciliano. La Thrinakie dell’”Odissea” di Omero è un corpo di donna brullo, roccioso, secco, corteggiato da un lapislazzulo mare.  
@@ -46,25 +25,15 @@ La seconda tappa è Portella delle Ginestra, a tre km da Piana degli Albanesi, i
 
 Ci fermiamo in un piazzale, dove una base semicircolare a gradinata funge da anfiteatro. La zona è stretta tra due alti rilievi montuosi.
 
-<div id="attachment_241" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://i0.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/04/sicilia_P1040407.jpg"><img aria-describedby="caption-attachment-241" loading="lazy" class="wp-image-241 size-medium" src="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040407.jpg?resize=300%2C225" alt="sicilia_P1040407" width="300" height="225" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040407.jpg?resize=300%2C225 300w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040407.jpg?w=1024 1024w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-241" class="wp-caption-text">
-    A Portella della Ginestra.
-  </p>
-</div>
+{% include figure image_path="assets/images/concerti/sicilia_P1040407.jpg" caption="A Portella della Ginestra."%}
+
 
 <p style="text-align: left;">
   C’è poca vegetazione, solo un prato bruno sta dinnanzi a noi e cattura la nostra attenzione per la presenza di rocce posizionate verticalmente.<br /> Su ognuna di esse ci sono incise in rosso delle scritte, dei nomi.<br /> Portella delle Ginestre è un luogo particolare, simbolo di un evento tragico della storia della Repubblica Italiana.<br /> Il 1 maggio del 1947 si verificò la prima strage di stato.<br /> Tutta la banda si è disposta su dei rialzi di terreno, nel centro del memoriale (Përmendorja in lingua albanese), mentre parenti ed altri visitatori si sono riuniti lungo il muretto che attraversa in lungo il prato.<br /> Il momento diventa ancor più toccante e intenso quando a raccontarci l’evento si presentano alcuni superstiti.<br /> Come per la visita a Capaci, anche questo giorno ha segnato una maturazione storica, culturale, civica di noi ragazzi, una presa di coscienza di un evento, certo meno conosciuto del precedente, ma importante per capire il percorso storico della nostra democrazia, le lotte e i sacrifici in sua difesa.
 </p>
 
-<div id="attachment_238" style="width: 310px" class="wp-caption alignleft">
-  <a href="https://i0.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/04/sicilia_P1040479.jpg"><img aria-describedby="caption-attachment-238" loading="lazy" class="wp-image-238 size-medium" src="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040479.jpg?resize=300%2C225" alt="sicilia_P1040479" width="300" height="225" srcset="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040479.jpg?resize=300%2C225 300w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040479.jpg?w=1024 1024w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-238" class="wp-caption-text">
-    Musica a Portella della Ginestra.
-  </p>
-</div>
+{% include figure image_path="assets/images/concerti/sicilia_P1040479.jpg" caption="Musica a Portella della Ginestra."%}
+
 
 Il contatto diretto con i reduci, l’ascolto delle loro voci piene di emozione che ripercorrevano quegli istanti di terrore, quando il bandito Salvatore Giuliano sparò sulla folla inerme che festeggiava il 1° maggio, hanno sicuramente favorito una maggiore partecipazione e coinvolgimento emotivo da parte di tutti noi.  
 La commemorazione si è conclusa con un concerto con l&#8217;esecuzione di brani adatti per l’occasione.  
@@ -73,13 +42,7 @@ La logistica è stata alquanto particolare, inseriti nel mezzo di un crocevia di
 Nonostante questa piccola difficoltà, il concerto è stato seguito da tanto pubblico e applaudito calorosamente. L’esibizione ha evidenziato ancora una volta il miglioramento qualitativo della banda e la coesione, forte in ogni circostanza.  
 La serata di Sciacca ha segnato un altro momento caratteriale della banda.
 
-<div id="attachment_240" style="width: 310px" class="wp-caption alignright">
-  <a href="https://i0.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/04/sicilia_P1040490.jpg"><img aria-describedby="caption-attachment-240" loading="lazy" class="wp-image-240 size-medium" src="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040490.jpg?resize=300%2C225" alt="sicilia_P1040490" width="300" height="225" srcset="https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040490.jpg?resize=300%2C225 300w, https://i1.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040490.jpg?w=1024 1024w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-240" class="wp-caption-text">
-    Concerto a San Giuseppe Jato.
-  </p>
-</div>
+{% include figure image_path="assets/images/concerti/sicilia_P1040490.jpg" caption="Concerto a San Giuseppe Jato."%}
 
 I diversi problemi che sin dall’arrivo si sono presentati (logistica, organizzazione del palco, disposizione delle sedie per il pubblico, ecc.) hanno inizialmente scoraggiato alcuni musicisti. Ma dopo poco, si è riusciti a fare la scelta più risolutiva per questo momento: suonare.  
 Il concerto è stato solo la concretizzazione pratica di questo atteggiamento. L’esecuzione è stata ottima, a mio parere una delle migliori mai fatte.  
@@ -87,13 +50,8 @@ Come in altre situazioni la solidità del gruppo, il senso d’amicizia che lega
 Da una situazione negativa si è tratta la forza di trasformarla in positiva, a nostro vantaggio.  
 Altro incontro importante è stato con “Libera”, organizzazione fondata da Don Luigi Ciotti nel 1995, dedita a solle
 
-<div id="attachment_236" style="width: 310px" class="wp-caption alignright">
-  <a href="https://i1.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2015/04/sicilia_P1040593.jpg"><img aria-describedby="caption-attachment-236" loading="lazy" class="wp-image-236 size-medium" src="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040593.jpg?resize=300%2C225" alt="sicilia_P1040593" width="300" height="225" srcset="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040593.jpg?resize=300%2C225 300w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2015/04/sicilia_P1040593.jpg?w=1024 1024w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></a>
-  
-  <p id="caption-attachment-236" class="wp-caption-text">
-    Concerto sul lungomare di Sciacca.
-  </p>
-</div>
+
+{% include figure image_path="assets/images/concerti/sicilia_P1040593.jpg" caption="Concerto sul lungomare di Sciacca."%}
 
 citare e coordinare la società civile contro tutte le mafie e favorire la creazione e lo sviluppo di una comunità alternativa. Qui la banda ha conosciuto l’operato di coloro che agiscono per contrastare l’illegalità mafiosa. Abbiamo avuto modo di sentire una rappresentante, che ci ha illustrato l’ organizzazione, il suo funzionamento, la gestione dei beni confiscati alla mafia e dei relativi prodotti.  
 Abbiamo avuto così l’opportunità preziosa di poter condividere le parole dei due magistrati, simbolo della lotta alla mafia:

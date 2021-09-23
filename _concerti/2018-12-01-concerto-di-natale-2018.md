@@ -1,19 +1,6 @@
 ---
-id: 1315
 title: Concerto di Natale 2018
 date: 2018-12-01T10:30:38+01:00
-author: Luca Reboldi
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=1315
-permalink: /concerto-di-natale-2018/
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
-categories:
-  - Generico
 ---
 Cari amici della Banda,
 
@@ -47,5 +34,3 @@ Cari amici della Banda,
 <p class="ox-9ecb90989b-MsoNormal">
   Nella speranza di vedervi numerosi, cogliamo l&#8217;occasione per augurare a tutti voi e alle vostre famiglie un felice e sereno Natale.
 </p>
-
-<img class="spotlight" src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/46501128_1128918077284650_2903199838269079552_n.jpg?_nc_cat=100&_nc_ht=scontent-mxp1-1.xx&oh=3f1548d3885abe5ec9ee18c2e7b72767&oe=5CAB2780" alt="L'immagine può contenere: una o più persone, testo e spazio all'aperto" aria-busy="false" />
