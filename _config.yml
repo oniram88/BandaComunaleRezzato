@@ -5,7 +5,7 @@ description: ""
 locale: 'it'
 repository: oniram88/BandaComunaleRezzato
 
-teaser: '/assets/images/header_default.jpg'
+paginate: 15
 logo: "/assets/images/logo.png"
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -44,6 +44,10 @@ collections:
     output: true
     sort_by: cognome_nome
     permalink: /accademia-musicale/:collection/:path/
+  concerti:
+    output: true
+    sort_by: date
+    permalink: /banda/concerti/:collection/:path/
 
 defaults:
   # _pages
@@ -75,6 +79,14 @@ defaults:
       layout: single
       sidebar:
         nav: "side_accademia"
+  # pagine per gli concerti
+  - scope:
+      path: ""
+      type: concerti
+    values:
+      layout: single
+      sidebar:
+        nav: "side_banda"
 
 
 footer:

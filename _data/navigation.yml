@@ -24,6 +24,8 @@ side_banda:
         url: /banda/statuto
       - title: "Storia"
         url: /banda/storia
+      - title: "Concerti"
+        url: /banda/concerti
 
 side_accademia:
   - title: Accademia Musicale
