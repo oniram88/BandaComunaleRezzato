@@ -5,4 +5,5 @@ permalink: /banda/concerti
 collection: concerti
 entries_layout: list
 classes: wide
+sort_order: reverse
 ---

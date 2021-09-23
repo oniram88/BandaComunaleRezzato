@@ -48,7 +48,6 @@ collections:
     permalink: /accademia-musicale/:collection/:path/
   concerti:
     output: true
-    sort_by: date
     permalink: /banda/concerti/:collection/:path/
 
 defaults:

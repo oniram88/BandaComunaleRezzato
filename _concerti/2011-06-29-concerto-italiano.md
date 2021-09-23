@@ -1,16 +1,6 @@
 ---
-id: 149
 title: Concerto Italiano
-date: 2011-06-29T11:38:28+01:00
-author: bandarezzato
-layout: single
-guid: http://banda.host-goog.dyndns.org/?p=149
-permalink: /concerto-italiano/
-categories:
-  - Concerti
-tags:
-  - concerto
-  - estate
+date: 2011-06-29
 ---
   * CUORE ABRUZZESE (MARCIA SINFONICA)- Giovanni Orsomando
   * IL BARBIERE DI SIVIGLIA- Gioacchino Rossini

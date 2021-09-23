@@ -1,22 +1,6 @@
 ---
-id: 151
 title: Concerto con Bruce Fraser
 date: 2012-04-22T11:39:10+01:00
-author: bandarezzato
-layout: single
-guid: http://banda.host-goog.dyndns.org/?p=151
-permalink: /concerto-fraser/
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
-categories:
-  - Concerti
-tags:
-  - concerto
-  - speciali
 ---
 **<img loading="lazy" class=" wp-image-245 alignleft" src="https://i2.wp.com/banda.host-goog.dyndns.org/wp-content/uploads/2012/04/banda_22-04-12_505-300x169.jpg?resize=375%2C211" alt="banda_22-04-12_505" width="375" height="211" srcset="https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2012/04/banda_22-04-12_505.jpg?resize=300%2C169 300w, https://i0.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2012/04/banda_22-04-12_505.jpg?w=960 960w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1" />&nbsp;**La Banda Comunale di Rezzato ha ospitato dal 19 al 22 **aprile 2012&nbsp;**il compositore scozzese **Bruce Fraser**. Bruce Fraser (1947-2017) è stato un musicista di fama mondiale specializzato nelle composizioni per orchestre di strumenti a fiato e nella direzione di bande giovanili. I nostri strumentisti hanno potuto beneficiare dei suoi insegnamenti e dei suoi suggerimenti nel corso di uno stage da lui tenuto presso la sede della banda.
 
