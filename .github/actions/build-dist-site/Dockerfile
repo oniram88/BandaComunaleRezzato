@@ -1,24 +1,6 @@
 # Our Docker image will be based on ruby:2-slim
 # it is a very light docker image.
-FROM ruby:2-slim
-
-# Lets install all dependencies
-# including git and Bundler 2.1.4
-
-ENV BUNDLER_VERSION 2.1.4
-RUN apt-get update && \
-    apt-get install --no-install-recommends -y \
-    bats \
-    build-essential \
-    ca-certificates \
-    curl \
-    libffi7 \
-    make \
-    shellcheck \
-    git-all \
-    && gem install bundler:2.1.4 \
-    && bundle config --global silence_root_warning 1
-
+FROM jekyll/builder:4.2.0
 # This is our entrypoint to our custom scripts
 # more about that in a sec
 COPY entrypoint.sh /
