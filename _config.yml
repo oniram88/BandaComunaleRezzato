@@ -44,7 +44,6 @@ include:
 collections:
   insegnanti:
     output: true
-    sort_by: cognome_nome
     permalink: /accademia-musicale/:collection/:path/
   concerti:
     output: true

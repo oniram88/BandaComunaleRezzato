@@ -7,4 +7,5 @@ permalink: /accademia-musicale/insegnanti
 collection: insegnanti
 entries_layout: list
 classes: wide
+sort_by: cognome_nome
 ---
