@@ -94,6 +94,11 @@ defaults:
       layout: single
       sidebar:
         nav: "side_contatti"
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
 
 footer:
   links:

@@ -1,13 +1,7 @@
 ---
-id: 372
 title: Estrazioni Concerto giugno 2015
 date: 2015-07-08T12:43:24+01:00
-author: marino
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=372
-permalink: /estrazioni-lotteria-concerto-giugno-2015/
-categories:
-  - Lotteria
+author: Marino Bonetti
 ---
 Per chi si fosse perso il concerto&#8230;(e che concerto!!!) e quindi anche l&#8217;estrazione dei numeri vincenti della lotteria eccoli qua!
 

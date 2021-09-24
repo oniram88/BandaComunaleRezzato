@@ -1,14 +1,9 @@
 ---
-id: 621
 title: BIGLIETTI DELLA LOTTERIA!!!
 date: 2016-07-05T12:58:18+01:00
 author: helen
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=621
-permalink: /biglietti-della-lotteria/
-categories:
-  - Generico
 ---
+
 Li avrete tanto attesi e finalmente ecco a voi i numeri vincenti della nostra lotteria!!!  
 1_ BICICLETTA_ Boccacci_ 49  
 2_ STAMPANTE_ Pegasus Technology_ 811  

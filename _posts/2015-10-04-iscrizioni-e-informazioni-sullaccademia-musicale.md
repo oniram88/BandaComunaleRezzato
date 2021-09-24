@@ -1,23 +1,12 @@
 ---
-id: 565
 title: 'ISCRIZIONI E INFORMAZIONI SULL&#8217;ACCADEMIA MUSICALE'
 date: 2015-10-04T20:34:14+01:00
 author: helen
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=565
-permalink: /iscrizioni-e-informazioni-sullaccademia-musicale/
-categories:
-  - Generico
 ---
-  * **LUNEDI&#8217; 5 OTTOBRE DALLE 17,30 ALLE 19,00**
+**PRESSO LA SEDE DELLA BANDA &#8211; VIA LEONARDO DA VINCI 2- REZZATO**
 
-  * **MARTEDI&#8217; 6 OTTOBRE DALLE 17,30 ALLE 19,00**
+* LUNEDI&#8217; 5 OTTOBRE DALLE 17,30 ALLE 19,00
+* MARTEDI&#8217; 6 OTTOBRE DALLE 17,30 ALLE 19,00
+* GIOVEDI&#8217; 8 OTTOBRE DALLE 16,30 ALLE 18,30
 
-  * **GIOVEDI&#8217; 8 OTTOBRE DALLE 16,30 ALLE 18,30**
 
-<div>
-</div>
-
-<div>
-  <strong>PRESSO LA SEDE DELLA BANDA &#8211; VIA LEONARDO DA VINCI 2- REZZATO</strong>
-</div>
