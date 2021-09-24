@@ -1,6 +1,6 @@
 ###
 # Helper per rapida generazione gallerie
-# bundle exec ruby helpers/gallery_generator.rb assets/images/posts/bottega_alta_2015
+# bundle exec ruby custom_helpers/gallery_generator.rb assets/images/posts/bottega_alta_2015
 require 'yaml'
 path = ARGV[0]
 directory = File.join(Dir.pwd, path)
