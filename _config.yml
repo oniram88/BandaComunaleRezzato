@@ -10,6 +10,9 @@ logo: "/assets/images/logo.png"
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme: minimal-mistakes-jekyll
+
+#minimal_mistakes_skin: "air" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
