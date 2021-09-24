@@ -29,6 +29,8 @@ side_banda:
         url: /banda/storia
       - title: "Concerti"
         url: /banda/concerti
+      - title: "Locandine"
+        url: /banda/locandine
       - title: "Trasparenza"
         url: /trasparenza
       - title: Rassegna Stampa
