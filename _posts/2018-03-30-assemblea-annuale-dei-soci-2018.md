@@ -1,21 +1,7 @@
 ---
-id: 1160
 title: Assemblea annuale dei soci 2018
 date: 2018-03-30T00:01:13+01:00
 author: Chiara Antonelli
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=1160
-permalink: /assemblea-annuale-dei-soci-2018/
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
-categories:
-  - Associazione
-tags:
-  - assemblea soci
 ---
 <div style="text-align: center;" data-canvas-width="104.76800000000003">
   A tutti i soci

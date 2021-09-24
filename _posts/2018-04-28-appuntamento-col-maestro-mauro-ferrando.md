@@ -1,23 +1,7 @@
 ---
-id: 1166
 title: 'APPUNTAMENTO COL MAESTRO // vol. 3: Mauro Ferrando'
 date: 2018-04-28T10:20:51+01:00
 author: Chiara Antonelli
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=1166
-permalink: /appuntamento-col-maestro-mauro-ferrando/
-lucida-layout-option:
-  - default
-lucida-header-image:
-  - default
-lucida-featured-image:
-  - default
-image: /wp-content/uploads/2018/04/ferrando-543x413.jpg
-categories:
-  - Accademia
-tags:
-  - appuntamento col maestro
-  - mauro ferrando
 ---
 <div id="js_je" class="_5pbx userContent _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
   <div id="id_5ae43c2072b3c8096364046" class="text_exposed_root text_exposed">

@@ -1,13 +1,7 @@
 ---
-id: 794
 title: 'L&#8217;Accademia arruola maestri d&#8217;eccezione'
 date: 2017-05-12T10:32:14+01:00
 author: Chiara Antonelli
-layout: single
-guid: http://www.bandacomunalerezzato.it/?p=794
-permalink: /laccademia-arruola-maestri-deccezione/
-categories:
-  - Generico
 ---
 <p style="text-align: justify;">
   E&#8217; stato presentato lo scorso mercoledì alla stampa il nuovo progetto formativo rivolto in via sperimentale agli allievi dell&#8217;Accademia musicale per l&#8217;anno 2017-2018. Nel corso del prossimo anno alcuni supervisori di fama internazionale affiancheranno gli allievi dei vari corsi di strumento per seguirli e stimolarli nel loro percorso di studio con l&#8217;obiettivo di perfezionare la loro preparazione musicale.&nbsp;
@@ -29,4 +23,4 @@ categories:
   A presto!
 </p>
 
-[<img loading="lazy" class="alignleft size-medium wp-image-796" src="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg?resize=300%2C169" alt="" width="300" height="169" srcset="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg?resize=300%2C169 300w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg?resize=768%2C432 768w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg?resize=1024%2C576 1024w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg?resize=216%2C122 216w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg?w=1032 1032w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />](https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/WhatsApp-Image-2017-05-12-at-10.42.13.jpeg) [<img loading="lazy" class="alignleft size-medium wp-image-795" src="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg?resize=206%2C300" alt="" width="206" height="300" srcset="https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg?resize=206%2C300 206w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg?resize=768%2C1118 768w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg?resize=704%2C1024 704w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg?resize=115%2C168 115w, https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg?w=900 900w" sizes="(max-width: 206px) 100vw, 206px" data-recalc-dims="1" />](https://i2.wp.com/www.bandacomunalerezzato.it/wp-content/uploads/2017/05/Copia-di-20170512giornalebrescia_37.jpg)
+{% include figure image_path="/assets/images/posts/accademia_arruola_maestri.jpeg" %}
