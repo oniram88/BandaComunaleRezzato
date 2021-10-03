@@ -117,6 +117,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  exifr
   jekyll (~> 4.2.0)
   jekyll-data
   jekyll-feed (~> 0.12)
@@ -124,6 +125,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-remote-theme
   minimal-mistakes-jekyll
+  rmagick
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
