@@ -1,0 +1,56 @@
+---
+layout: single
+classes: wide
+sidebar:
+nav: "side_banda"
+
+---
+<style>
+  /*.gallery-image-wrapper {*/
+  /*  height: 300px;*/
+  /*  width: 300px;*/
+  /*  display: inline-block;*/
+  /*  margin: 1em;*/
+  /*  position: relative;*/
+  /*}*/
+  /*.gallery-image {*/
+  /*  margin: auto;*/
+  /*  position: absolute;*/
+  /*  top: 0px;*/
+  /*  bottom: 0px;*/
+  /*  max-height: 100%;*/
+  /*  max-width: 100%;*/
+  /*}*/
+
+  .gallery-wrapper {
+    display: grid;
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    grid-gap: 20px;
+
+  }
+
+  /* items */
+
+  .gallery-wrapper div {
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+  }
+</style>
+<!--<h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>-->
+<hr/>
+<div class="gallery-wrapper">
+  {% for image in page.images %}
+  <div>
+    <a name="{{ image.name }}"></a>
+    <a href="{{ image.name }}" {% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]" {% endif %}>
+      <img class="gallery-image" src="thumbs/{{ image.name }}"/>
+    </a>
+  </div>
+  {% endfor %}
+</div>
