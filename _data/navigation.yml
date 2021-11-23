@@ -35,6 +35,8 @@ side_banda:
         url: /rassegna_stampa
       - title: Gallery
         url: /galleries
+      - title: Calendario Prove
+        url: /banda/calendario
 
 side_accademia:
   - title: Accademia Musicale
