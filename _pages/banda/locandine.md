@@ -5,6 +5,8 @@ permalink: /banda/locandine
 title: Locandine
 
 gallery:
+- url: "/assets/images/locandine/concerto_natale_2021.jpeg"
+  image_path: "/assets/images/locandine/concerto_natale_2021.jpeg"
 - url: "/assets/images/locandine/78926109_1404359239740531_5899727082497245184_n.jpg"
   image_path: "/assets/images/locandine/78926109_1404359239740531_5899727082497245184_n.jpg"
 - url: "/assets/images/locandine/medie-17.jpg"
