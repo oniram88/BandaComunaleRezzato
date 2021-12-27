@@ -5,6 +5,4 @@ author: Marino Bonetti
 permalink: /banda/calendario
 ---
 
-### Dicembre 2021  
-
-- Gio 23 **Tutti**
+### COMMING SOON
