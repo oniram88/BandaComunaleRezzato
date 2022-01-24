@@ -7,6 +7,9 @@ permalink: /banda/calendario
 
 ## WIP
 
+### Gennaio
+- 31/01 Prova
+
 ### Febbraio
 - 07/02 Prova con Maestri Esterno
 
