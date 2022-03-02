@@ -1,23 +1,9 @@
 ---
 title: Calendario Prove
-date: 2022-01-24
+date: 2022-03-01
 author: Marino Bonetti
 permalink: /banda/calendario
 ---
-
-### Gennaio
-  - Lunedì 31 Tutti
- 
-### Febbraio
-  - Giovedì 3 Tutti
-  - Lunedì 7 Tutti
-  - Giovedì 10 Tutti
-  - Lunedì 14 Tutti con direttori corso
-  - Giovedì 17 Tutti
-  - Lunedì 21 Tutti
-  - Giovedì 24 Tutti
-  - Lunedì 28 Tutti
-
 ### Marzo
   - Giovedì 3 Tutti
   - Lunedì 7 Tutti con direttori corso
@@ -27,7 +13,7 @@ permalink: /banda/calendario
   - Lunedì 21 Generale Tutti
   - Giovedì 24 Generale Tutti
   - Sabato 26: Concerto
-  - Lunedì 28 NO PROVA [Carnevale]
+  - Lunedì 28 NO PROVA
   - Giovedì 31 Tutti
 
 ### Aprile
