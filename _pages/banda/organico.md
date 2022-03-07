@@ -1,6 +1,6 @@
 ---
 title: Organico
-date: 2015-04-12T09:12:12+01:00
+date: 2022-03-07
 author: bandarezzato
 permalink: /banda/organico
 ---
@@ -9,26 +9,65 @@ permalink: /banda/organico
 
 <span style="text-decoration: underline;"><strong>Organico completo al 01.02.2020</strong></span>
 
-**FLAUTO&nbsp;**Vittorio (_nato nel_ 1995),&nbsp;Marta (1998), Linda (2002), Stella (2002), Elisa (2005), Rebecca (2004), Federica (2004), Sonia (1969)
+**FLAUTO**
+- Vittorio (1995)
+- Marta (1998)
+- Linda (2002)
+- Stella (2002)
+- Rebecca (2004)
+- Sonia (1969)
 
-**OBOE&nbsp;**Aurora (2001)
+**OBOE**Aurora (2001)
 
-**CLARINETTO MIb/SIb &nbsp;**Anna (2001)
+**CLARINETTO SIb**
+- Alessia (2002)
+- Simone (2000)
+- Camilla (1993)
+- Luca (1994)
+- Caterina (1995)
+- Edoardo (2004)
+- Judith (2002)
+- Giulia (2005)
 
-**CLARINETTO SIb&nbsp;**Mario (1953), Silvia (1997),&nbsp;Alessia (2002),&nbsp;Simone (2000),&nbsp;Camilla (1993),&nbsp;Luca (1994),&nbsp;Caterina (1995), Edoardo (2004), Judith (2002), Giulia (2005)
+**SAXOFONO**
+- Davide (2002)
+- Anna (1981)
+- Paolo (1977)
+- Marco (2003)
+- Alice (2004)
 
-**SAXOFONO&nbsp;**Davide (2002),&nbsp;Marta (1998),&nbsp;Anna (1981),&nbsp;Paolo (1977),&nbsp;Marco (2003), Alice (2004)
+**FAGOTTO**
+- Tomaso (1986)
+- Daniele (2003)
 
-**FAGOTTO&nbsp;**Tomaso (1986), Daniele (2003)
+**CORNO**
+- Alessandro (1977)
+- Laura (1965)
+- Anna (2004)
 
-**CORNO&nbsp;**Alessandro (1977),&nbsp;Laura (1965), Anna (2004)
+**TROMBA**
+- Monica (1977)
+- Marino (1988)
+- Matteo (1991)
+- Camilla (1998)
+- Matteo (1983)
+- Emilio (1976)
+- Silvia 
 
-**TROMBA&nbsp;**Monica (1977),&nbsp;Marino (1988),&nbsp;Matteo (1991),&nbsp;Camilla (1998), Matteo (1983), Emilio (1976)
+**TROMBONE**
+- Valerio (1975)
+- Gianpaolo (1999)
+- Giordano (1996)
+- Luca (1988)
 
-**TROMBONE&nbsp;**Valerio (1975),&nbsp;Gianpaolo (1999),&nbsp;Giordano (1996), Luca (1988)
+**FLICORNO**
+- Alessandro (1975)
 
-**FLICORNO&nbsp;**Alessandro (1975)
+**TUBA**
+- Daniele (1996)
 
-**TUBA&nbsp;**Daniele (1996)
-
-**PERCUSSIONI&nbsp;**Enrico (1991),&nbsp;Filippo (1999),&nbsp;Davide (1994),&nbsp;Alessandro (1994),&nbsp;Jacopo (2003)
+**PERCUSSIONI**
+- Enrico (1991)
+- Filippo (1999)
+- Davide (1994)
+- Jacopo (2003)
