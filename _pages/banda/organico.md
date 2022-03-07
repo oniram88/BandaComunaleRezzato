@@ -17,7 +17,8 @@ permalink: /banda/organico
 - Rebecca (2004)
 - Sonia (1969)
 
-**OBOE**Aurora (2001)
+**OBOE**
+- Aurora (2001)
 
 **CLARINETTO SIb**
 - Alessia (2002)
