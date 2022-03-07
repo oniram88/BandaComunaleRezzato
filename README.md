@@ -1,5 +1,7 @@
 # Development
 
+Simulazione action github locale:
+
 andare nella cartella
 
 `.github/actions/build-dist-site`
