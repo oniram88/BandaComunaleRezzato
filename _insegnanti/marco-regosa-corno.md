@@ -15,8 +15,3 @@ Da settembre 2011 a maggio 2016 è stato direttore della Banda San Gottardo di B
 All’attività di concertista affianca quella di insegnante: è attualmente insegnate di corno, solfeggio e musica d’insieme presso alcune accademie bandistiche della provincia di Brescia, e insegnante di corno presso la scuola media ad indirizzo musicale Padre Giulio Bevilacqua di Cazzago S.M. È coordinatore della scuola allievi del Corpo Bandistico di Roè Volciano e del Corpo Bandistico di Urago Mella. Da settembre 2016 è membro della commissione artistica dell’Associazione Bande Musicali Bresciane.
 
 Dal settembre 2018 è Direttore dell&#8217;Accademia musicale della Banda Comunale di Rezzato.
-
-Orario delle lezioni per l&#8217;anno 2019/2020:&nbsp;
-
-  * **lunedì** dalle 15.00 e **giovedì** dalle 18.00 (corno);
-  * **venerdì** dalle 17.00 (musica d&#8217;insieme)

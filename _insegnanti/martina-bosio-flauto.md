@@ -5,5 +5,4 @@ author: bandarezzato
 excerpt: ""
 cognome_nome: Bosio Martina
 ---
-Orario delle lezioni per l'anno 2019/2020: **venerdì** dalle 14.30
 
