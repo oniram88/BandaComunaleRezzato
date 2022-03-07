@@ -8,12 +8,12 @@ permalink: /banda/calendario
   - Giovedì 3 Tutti
   - Lunedì 7 Tutti con direttori corso
   - Giovedì 10 Tutti
-  - Lunedì 14 Tutti
-  - Giovedì 17 Tutti
-  - Lunedì 21 Generale Tutti
-  - Giovedì 24 Generale Tutti
-  - Sabato 26: Concerto
-  - Lunedì 28 NO PROVA
+  - Lunedì 14 Generale Tutti
+  - Giovedì 17 Generale Tutti
+  - **Sabato 20: Concerto**
+  - Lunedì 21 Tutti
+  - Giovedì 24 Tutti
+  - Lunedì 28 
   - Giovedì 31 Tutti
 
 ### Aprile
@@ -46,7 +46,7 @@ permalink: /banda/calendario
   - Giovedì 16 Tutti
   - Lunedì 20 Generale Tutti
   - Giovedì 23 Generale Tutti
-  - 24 – 25 (da definire): Concerto
+  - **Venerdì 24 Concerto**
 
 ### Luglio
   - Da definire: prova Tutti
