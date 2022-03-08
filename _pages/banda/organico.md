@@ -1,6 +1,6 @@
 ---
 title: Organico
-date: 2022-03-07
+date: 2022-03-08
 author: bandarezzato
 permalink: /banda/organico
 ---
@@ -10,68 +10,68 @@ permalink: /banda/organico
 <span style="text-decoration: underline;"><strong>Organico completo al 01.02.2020</strong></span>
 
 **FLAUTO**
-- Vittorio (1995)
-- Marta (1998)
-- Linda (2002)
-- Stella (2002)
-- Rebecca (2004)
+- Vittorio B. (1995)
+- Marta M. (1998)
+- Linda F. (2002)
+- Stella F. (2002)
+- Rebecca F.(2004)
 - Sonia (1969)
-- Miriam 
+- Miriam F.
 
 **OBOE**
-- Aurora (2001)
+- Aurora B. (2001)
 
 **CLARINETTO SIb**
-- Alessia (2002)
-- Simone (2000)
-- Camilla (1993)
-- Luca (1994)
-- Caterina (1995)
-- Edoardo (2004)
+- Alessia B. (2002)
+- Simone F. (2000)
+- Camilla P. (1993)
+- Luca R. (1994)
+- Caterina R. (1995)
+- Edoardo A. (2004)
 - Judith (2002)
-- Giulia (2005)
-- Alessia 
-- Luca
+- Giulia G. (2005)
+- Alessia M.
+- Luca M.
 
 **SAXOFONO**
-- Davide (2002)
-- Anna (1981)
-- Paolo (1977)
-- Marco (2003)
-- Alice (2004)
+- Davide R. (2002)
+- Anna P. (1981)
+- Paolo R. (1977)
+- Marco N. (2003)
+- Alice C. (2004)
 
 **FAGOTTO**
-- Tomaso (1986)
-- Daniele (2003)
+- Tomislav M. (1986)
+- Daniele B. (2003)
 
 **CORNO**
-- Alessandro (1977)
-- Laura (1965)
-- Anna (2004)
+- Alessandro R. (1977)
+- Laura B. (1965)
+- Anna Z. (2004)
 
 **TROMBA**
-- Monica (1977)
-- Marino (1988)
-- Matteo (1991)
-- Camilla (1998)
-- Matteo (1983)
-- Emilio (1976)
+- Monica G. (1977)
+- Marino B. (1988)
+- Matteo C. (1991)
+- Camilla C. (1998)
+- Matteo C. (1983)
+- Emilio F. (1976)
 - Silvia 
 
 **TROMBONE**
-- Valerio (1975)
-- Gianpaolo (1999)
-- Giordano (1996)
-- Luca (1988)
+- Valerio C. (1975)
+- Gianpaolo L. (1999)
+- Giordano M. (1996)
+- Luca C. (1988)
 
 **FLICORNO**
-- Alessandro (1975)
+- Alessandro P. (1975)
 
 **TUBA**
-- Daniele (1996)
+- Daniele M. (1996)
 
 **PERCUSSIONI**
-- Enrico (1991)
-- Filippo (1999)
-- Davide (1994)
-- Jacopo (2003)
+- Enrico T. (1991)
+- Filippo C. (1999)
+- Davide B. (1994)
+- Jacopo F. (2003)
