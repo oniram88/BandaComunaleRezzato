@@ -1,12 +1,10 @@
 ---
 title: Calendario Prove
-date: 2022-03-01
+date: 2022-03-08
 author: Marino Bonetti
 permalink: /banda/calendario
 ---
 ### Marzo
-  - Giovedì 3 Tutti
-  - Lunedì 7 Tutti con direttori corso
   - Giovedì 10 Tutti
   - Lunedì 14 Generale Tutti
   - Giovedì 17 Generale Tutti
