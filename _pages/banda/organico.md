@@ -16,6 +16,7 @@ permalink: /banda/organico
 - Stella (2002)
 - Rebecca (2004)
 - Sonia (1969)
+- Miriam 
 
 **OBOE**
 - Aurora (2001)
@@ -29,6 +30,8 @@ permalink: /banda/organico
 - Edoardo (2004)
 - Judith (2002)
 - Giulia (2005)
+- Alessia 
+- Luca
 
 **SAXOFONO**
 - Davide (2002)
