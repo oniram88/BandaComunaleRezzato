@@ -56,7 +56,7 @@ permalink: /banda/organico
 - Camilla C. (1998)
 - Matteo C. (1983)
 - Emilio F. (1976)
-- Silvia 
+- Silvia F. (1988)
 
 **TROMBONE**
 - Valerio C. (1975)
