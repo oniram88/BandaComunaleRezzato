@@ -15,8 +15,8 @@ permalink: /banda/organico
 - Linda F. (2002)
 - Stella F. (2002)
 - Rebecca F.(2004)
-- Sonia (1969)
-- Miriam F.
+- Sonia N. (1969)
+- Miriam F. (2006)
 
 **OBOE**
 - Aurora B. (2001)
@@ -30,8 +30,8 @@ permalink: /banda/organico
 - Edoardo A. (2004)
 - Judith (2002)
 - Giulia G. (2005)
-- Alessia M.
-- Luca M.
+- Alessia M. (2004)
+- Luca M. (1992)
 
 **SAXOFONO**
 - Davide R. (2002)
