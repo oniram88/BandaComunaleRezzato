@@ -7,7 +7,7 @@ permalink: /banda/organico
 {% include figure image_path="/assets/images/banda/organico2-1.jpg" caption="In piazza Loggia con Andrea Tofanelli, Brescia, 29 giugno 2017"%}
 {% include figure image_path="/assets/images/banda/organico-1.jpg" caption="Villa Fenaroli, concerto d&#8217;estate 2010"%}
 
-<span style="text-decoration: underline;"><strong>Organico completo al 01.02.2020</strong></span>
+<span style="text-decoration: underline;"><strong>Organico completo al 08.03.2022</strong></span>
 
 **FLAUTO**
 - Vittorio B. (1995)
