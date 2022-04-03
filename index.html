@@ -5,21 +5,20 @@ header:
 ---
 <link rel="stylesheet" href="{{ '/assets/custom_style/home.css' | relative_url }}" />
 
-<div class="in_primo_piano">
-  <h1><a>🌷 È in arrivo… una sinfonia di Primavera!</a></h1>
 
-  <p>
-    Eccoci in trasferta, ospiti del festival bandistico organizzato dal Corpo Musicale e dall’Associazione Amici della Musica di Palazzolo sull’Oglio</p>
+{% for tag in site.tags %}
+  {% if tag[0] == "primo_piano" %}
+  
+    {% for post in tag[1] %}
+    
+    <div class="in_primo_piano">
+      <h1><a  href="{{ post.url }}">{{post.title}}</a></h1>
+    
+      {{post.content}}
+    
+    </div>
+    
+    {% endfor %}
 
-  <p>
-    🗓 Quando? Domenica 20 marzo alle ore 20.45 <br>
-    📌 Dove? Casa della Musica, piazza Dante Alighieri 2, Palazzolo sull’Oglio <br>
-    📝 Prenotazione obbligatoria ai contatti indicati nella locandina (tel. o Whatsapp al 328  6380819 - mail: info@cfmpalazzolo.it) <br>
-  </p>
-
-
-  <a href="{{ 'banda/concerti/concerti/2022-03-20-festival-bandistico-palazzolo-2022' | relative_url }}">
-    {% include figure image_path="/assets/images/concerti/Festival_Bandistico_Palazzolo_Marzo_2022.jpg" %}
-  </a>
-
-</div>
+  {% endif %}
+{% endfor %}
