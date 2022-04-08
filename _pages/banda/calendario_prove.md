@@ -1,27 +1,16 @@
 ---
 title: Calendario Prove
-date: 2022-03-08
+date: 2022-04-08
 author: Marino Bonetti
 permalink: /banda/calendario
 ---
-### Marzo
-  - Giovedì 10 Tutti
-  - Lunedì 14 Generale Tutti
-  - Giovedì 17 Generale Tutti
-  - **Sabato 20: Concerto**
-  - Lunedì 21 Tutti
-  - Giovedì 24 Tutti
-  - Lunedì 28 
-  - Giovedì 31 Tutti
 
 ### Aprile
-  - Lunedì 4 Tutti con direttori corso
-  - Dal 5 al 8: prove di sezioni ristrette
   - Lunedì 11 Tutti
-  - Dal 12 al 14: prove di sezioni ristrette
+  - Giovedì 14 Tutti
   - Lunedì 18 NO PROVA [Pasquetta]
   - Giovedì 21 Tutti
-  - Lunedì 25: Servizio?
+  - Lunedì 25: Servizio - Marcia da Piazza Vantini a Martiri Cefalonia (Mattina)
   - Giovedì 28 Tutti
 
 ### Maggio
@@ -49,5 +38,3 @@ permalink: /banda/calendario
 ### Luglio
   - Da definire: prova Tutti
   - Da definire: Servizio
-
-
