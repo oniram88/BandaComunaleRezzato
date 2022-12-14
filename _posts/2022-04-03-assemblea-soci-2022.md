@@ -2,7 +2,6 @@
 date: 2022-04-03
 title: Assemblea dei soci 2022
 author: Bonetti Marino
-tag: primo_piano
 ---
 
 Potranno prendere parte all’Assemblea con diritto di voto solo i soci che hanno rinnovato la tessera associativa per l’anno in corso. 
