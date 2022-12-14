@@ -5,6 +5,8 @@ permalink: /banda/locandine
 title: Locandine
 
 gallery:
+- url: "/assets/images/locandine/concerto_natale_2022.jpg"
+  image_path: "/assets/images/locandine/concerto_natale_2022.jpg"
 - url: "/assets/images/locandine/Festival_Bandistico_Palazzolo_Marzo_2022.jpg"
   image_path: "/assets/images/locandine/Festival_Bandistico_Palazzolo_Marzo_2022.jpg"
 - url: "/assets/images/locandine/concerto_natale_2021.jpeg"
