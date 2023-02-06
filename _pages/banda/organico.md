@@ -1,6 +1,6 @@
 ---
 title: Organico
-date: 2022-03-08
+date: 2023-02-06
 author: bandarezzato
 permalink: /banda/organico
 ---
