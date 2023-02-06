@@ -17,6 +17,10 @@ gallery:
   image_path:  /assets/images/rassegna_stampa/6.jpg
 - url: /assets/images/rassegna_stampa/7.jpg
   image_path:  /assets/images/rassegna_stampa/7.jpg
+- url: /assets/images/rassegna_stampa/8.jpg
+  image_path:  /assets/images/rassegna_stampa/8.jpg
+- url: /assets/images/rassegna_stampa/9.jpg
+  image_path:  /assets/images/rassegna_stampa/9.jpg
 
 ---
 
