@@ -17,6 +17,8 @@ permalink: /banda/organico
 - Rebecca F.(2004)
 - Sonia N. (1969)
 - Miriam F. (2006)
+- Elisa R. (2004)
+- Taras M. (2007)
 
 **OBOE**
 - Aurora B. (2001)
@@ -28,9 +30,10 @@ permalink: /banda/organico
 - Luca R. (1994)
 - Caterina R. (1995)
 - Edoardo A. (2004)
-- Judith (2002)
-- Giulia G. (2005)
-- Alessia M. (2004)
+- Giulia G. (2005
+- Silvia S. (2005)
+
+**CLARINETTO BASSO**
 - Luca M. (1992)
 
 **SAXOFONO**
@@ -39,6 +42,7 @@ permalink: /banda/organico
 - Paolo R. (1977)
 - Marco N. (2003)
 - Alice C. (2004)
+- Francesca G. (2007)
 
 **FAGOTTO**
 - Tomislav M. (1986)
@@ -49,7 +53,7 @@ permalink: /banda/organico
 - Laura B. (1965)
 - Anna Z. (2004)
 
-**TROMBA**
+**TROMBA e CORNETTA**
 - Monica G. (1977)
 - Marino B. (1988)
 - Matteo C. (1991)
@@ -57,12 +61,14 @@ permalink: /banda/organico
 - Matteo C. (1983)
 - Emilio F. (1976)
 - Silvia F. (1988)
+- Annalaura L. (2007)
+- Alessandro S. (2006)
 
 **TROMBONE**
 - Valerio C. (1975)
 - Gianpaolo L. (1999)
-- Giordano M. (1996)
 - Luca C. (1988)
+- Francesco M. (2006)
 
 **FLICORNO**
 - Alessandro P. (1975)
@@ -70,8 +76,10 @@ permalink: /banda/organico
 **TUBA**
 - Daniele M. (1996)
 
+**CONTRABBASSO**
+- Pierluigi B. (1954)
+
 **PERCUSSIONI**
-- Enrico T. (1991)
 - Filippo C. (1999)
-- Davide B. (1994)
-- Jacopo F. (2003)
+- Anna G. (2008)
+- Alessandra F. (1987)
