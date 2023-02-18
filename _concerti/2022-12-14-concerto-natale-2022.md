@@ -2,6 +2,7 @@
 date: 2022-12-14
 title: Concerto Natale 2022
 author: Bonetti Marino
+tag: primo_piano
 ---
 Cari soci e cari concittadini,
 
