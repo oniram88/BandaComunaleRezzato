@@ -3,10 +3,19 @@ title: Organico
 date: 2023-02-06
 author: bandarezzato
 permalink: /banda/organico
+
+gallery:
+  - url: /assets/images/banda/organico2-1.jpg
+    image_path: /assets/images/banda/organico2-1.jpg
+    title: In piazza Loggia con Andrea Tofanelli, Brescia, 29 giugno 2017
+  - url: /assets/images/banda/organico-1.jpg
+    image_path: /assets/images/banda/organico-1.jpg
+    title: Villa Fenaroli, concerto d'estate 2010
+
 ---
 {% include figure image_path="/assets/images/banda/organico3-2022.jpeg" caption="Rezzato, Novembre 2022"%}
-{% include figure image_path="/assets/images/banda/organico2-1.jpg" caption="In piazza Loggia con Andrea Tofanelli, Brescia, 29 giugno 2017"%}
-{% include figure image_path="/assets/images/banda/organico-1.jpg" caption="Villa Fenaroli, concerto d&#8217;estate 2010"%}
+
+{% include gallery %}
 
 ### Organico completo al 31.01.2023
 
