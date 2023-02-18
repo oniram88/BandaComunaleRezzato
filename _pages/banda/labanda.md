@@ -4,13 +4,16 @@ date: 2015-03-28T14:26:31+01:00
 permalink: /labanda
 ---
 
-{% include figure image_path="/assets/images/banda/bb.jpg" caption="Concerto presso l&#8217;auditorium San Barnaba,
-Brescia, 11 marzo 2017" %}
+{% include figure image_path="/assets/images/banda/concerto_palazzolo.jpeg" caption="Festival Bandistico Palazzolo Marzo 2022" %}
 
 Da sempre la musica, sin dagli albori della civiltà umana, ha accompagnato la vita delle persone. Essa, nella
 preistoria, aveva un valore religioso, era utilizzata come mezzo di comunicazione con l’aldilà. Nel corso della storia,
 la musica ha mantenuto questa funzione, alla quale si sono aggiunti il valore artistico (ovvero il riconoscimento della
 musica come arte) e la funzione di canale di comunicazione delle proprie emozioni.&nbsp;
+
+{% include figure image_path="/assets/images/banda/bb.jpg" caption="Concerto presso l&#8217;auditorium San Barnaba,
+Brescia, 11 marzo 2017" %}
+
 
 La banda è composta da legni, ottoni e percussioni. È diversa dall’orchestra perché non sono presenti gli archi, inoltre
 il repertorio che viene eseguito dai due organici è differente: generalmente le bande suonano brani della tradizione
