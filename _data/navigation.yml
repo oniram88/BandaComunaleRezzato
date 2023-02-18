@@ -33,10 +33,6 @@ side_banda:
         url: /trasparenza
       - title: Rassegna Stampa
         url: /rassegna_stampa
-#      - title: Gallery
-#        url: /galleries
-      - title: Calendario Prove
-        url: /banda/calendario
 
 side_accademia:
   - title: Accademia Musicale
