@@ -54,7 +54,7 @@ collections:
     permalink: /accademia-musicale/:collection/:path/
   concerti:
     output: true
-    permalink: /banda/concerti/:collection/:path/
+    permalink: /banda/:collection/:path/
 
 defaults:
   # _pages
