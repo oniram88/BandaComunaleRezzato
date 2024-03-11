@@ -1,6 +1,6 @@
 ---
 title: Organico
-date: 2023-02-06
+date: 2024-03-11
 author: bandarezzato
 permalink: /banda/organico
 
@@ -17,21 +17,19 @@ gallery:
 
 {% include gallery %}
 
-### Organico completo al 31.01.2023
+### Organico completo al 31.01.2024
 
 **FLAUTO**
 - Vittorio B. (1995)
-- Marta M. (1998)
 - Linda F. (2002)
 - Stella F. (2002)
-- Rebecca F.(2004)
 - Sonia N. (1969)
 - Miriam F. (2006)
-- Elisa R. (2004)
 - Taras M. (2007)
 
 **OBOE**
 - Aurora B. (2001)
+- Isabella C. (2007)
 
 **CLARINETTO SIb**
 - Alessia B. (2002)
@@ -40,7 +38,9 @@ gallery:
 - Luca R. (1994)
 - Caterina R. (1995)
 - Edoardo A. (2004)
-- Giulia G. (2005
+- Giulia B. (2006)
+- Giulia D. (2007)
+- Giulia G. (2005)
 - Silvia S. (2005)
 
 **CLARINETTO BASSO**
@@ -48,14 +48,13 @@ gallery:
 
 **SAXOFONO**
 - Davide R. (2002)
+- Marco N. (2003)
+- Michele A. (2009)
 - Anna P. (1981)
 - Paolo R. (1977)
-- Marco N. (2003)
-- Alice C. (2004)
 - Francesca G. (2007)
 
 **FAGOTTO**
-- Tomislav M. (1986)
 - Daniele B. (2003)
 
 **CORNO**
@@ -64,15 +63,15 @@ gallery:
 - Anna Z. (2004)
 
 **TROMBA e CORNETTA**
-- Monica G. (1977)
+- Monica G. (1981)
 - Marino B. (1988)
 - Matteo C. (1991)
 - Camilla C. (1998)
 - Matteo C. (1983)
-- Emilio F. (1976)
 - Silvia F. (1988)
 - Annalaura L. (2007)
 - Alessandro S. (2006)
+- Ludovico L. (2009)
 
 **TROMBONE**
 - Valerio C. (1975)
@@ -82,14 +81,11 @@ gallery:
 
 **FLICORNO**
 - Alessandro P. (1975)
+- Emilio F. (1976)
 
 **TUBA**
 - Daniele M. (1996)
 
-**CONTRABBASSO**
-- Pierluigi B. (1954)
-
 **PERCUSSIONI**
-- Filippo C. (1999)
 - Anna G. (2008)
 - Alessandra F. (1987)
