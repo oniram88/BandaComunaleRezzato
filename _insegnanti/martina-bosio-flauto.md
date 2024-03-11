@@ -1,5 +1,5 @@
 ---
-title: 'Martina Bosio - Flauto'
+title: 'Martina Bosio - Flauto e Propedeutica Musicale'
 date: 2015-03-28T14:06:59+01:00
 author: bandarezzato
 excerpt: ""
