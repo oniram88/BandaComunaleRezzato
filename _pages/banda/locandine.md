@@ -5,6 +5,8 @@ permalink: /banda/locandine
 title: Locandine
 
 gallery:
+- url: "/assets/images/locandine/concerto_estivo_2024.jpg"
+  image_path: "/assets/images/locandine/concerto_estivo_2024.jpg"
 - url: "/assets/images/locandine/concerto_natale_2023.jpg"
   image_path: "/assets/images/locandine/concerto_natale_2023.jpg"
 - url: "/assets/images/locandine/concerto_natale_2022.jpg"
