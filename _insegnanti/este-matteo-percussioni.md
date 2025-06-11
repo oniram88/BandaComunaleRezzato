@@ -1,9 +1,9 @@
 ---
-title: 'Gemma Flavigna - Percussioni' 
-date: 2015-03-28T14:09:46+01:00
+title: 'Matteo Este - Percussioni' 
+date: 2025-06-11
 author: bandarezzato
 excerpt: ''
-cognome_nome: Flavigna Gemma
+cognome_nome: Este Matteo
 header:
     teaser: /assets/images/strumenti/percussioni.jpg
 ---
