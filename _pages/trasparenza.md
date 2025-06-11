@@ -4,6 +4,7 @@ date: 2018-02-28T16:27:23+01:00
 permalink: /trasparenza 
 ---
 
+- Comunicazione ai sensi della legge 4 agosto 2017, n. 124 &#8211; anno 2025 - [Scarica](./assets/files_trasparenza/legge_125_2025.pdf)
 - Comunicazione ai sensi della legge 4 agosto 2017, n. 124 &#8211; anno 2024 - [Scarica](./assets/files_trasparenza/legge_125_2024.pdf)
 - Comunicazione ai sensi della legge 4 agosto 2017, n. 124 &#8211; anno 2023 - [Scarica](./assets/files_trasparenza/legge_125_2023.pdf)
 - Comunicazione ai sensi della legge 4 agosto 2017, n. 124 &#8211; anno 2022 - [Scarica](./assets/files_trasparenza/legge_125_2022.pdf)
