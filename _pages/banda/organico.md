@@ -23,9 +23,8 @@ gallery:
 - Vittorio B. (1995)
 - Linda F. (2002)
 - Stella F. (2002)
-- Sonia N. (1969)
-- Miriam F. (2006)
 - Taras M. (2007)
+- Sonia N. (1969)
 
 **OBOE**
 - Aurora B. (2001)
@@ -33,59 +32,52 @@ gallery:
 
 **CLARINETTO SIb**
 - Alessia B. (2002)
-- Simone F. (2000)
-- Camilla P. (1993)
-- Luca R. (1994)
-- Caterina R. (1995)
-- Edoardo A. (2004)
 - Giulia B. (2006)
 - Giulia D. (2007)
 - Giulia G. (2005)
+- Simone F. (2000)
+- Camilla P. (1993)
 - Silvia S. (2005)
 
 **CLARINETTO BASSO**
 - Luca M. (1992)
 
 **SAXOFONO**
-- Davide R. (2002)
-- Marco N. (2003)
 - Michele A. (2009)
+- Francesca G. (2007)
 - Anna P. (1981)
 - Paolo R. (1977)
-- Francesca G. (2007)
+- Daniele S. (2009)
 
 **FAGOTTO**
 - Daniele B. (2003)
 
 **CORNO**
-- Alessandro R. (1977)
 - Laura B. (1965)
+- Alessandro R. (1977)
 - Anna Z. (2004)
 
 **TROMBA e CORNETTA**
-- Monica G. (1981)
 - Marino B. (1988)
+- Francesco B. (2009)
 - Matteo C. (1991)
-- Camilla C. (1998)
 - Matteo C. (1983)
 - Silvia F. (1988)
+- Filippo G. (2010)
+- Monica G. (1981)
 - Annalaura L. (2007)
-- Alessandro S. (2006)
 - Ludovico L. (2009)
 
 **TROMBONE**
 - Valerio C. (1975)
-- Gianpaolo L. (1999)
-- Luca C. (1988)
 - Francesco M. (2006)
 
 **FLICORNO**
-- Alessandro P. (1975)
 - Emilio F. (1976)
-
-**TUBA**
-- Daniele M. (1996)
+- Alessandro P. (1975)
 
 **PERCUSSIONI**
 - Anna G. (2008)
 - Alessandra F. (1987)
+- Nicola M. (2009)
+- Nicola S. (2009)
