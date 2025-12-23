@@ -5,7 +5,7 @@ author: Bonetti Marino
 tag: primo_piano
 ---
 
-{% include figure image_path="/assets/images/concerti/concert_natale_2025.jpg" %}
+{% include figure image_path="/assets/images/concerti/concerto_natale_2025.jpg" %}
 
 Care Amiche e cari Amici della Banda Comunale di Rezzato
 
