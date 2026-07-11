@@ -4,22 +4,26 @@ date: 2022-03-07
 permalink: /informazioni/cda
 ---
 
-L'attuale **Consiglio Direttivo** è stato eletto in occasione dell'Assemblea dei Soci del **30 novembre 2022**. Il Consiglio rimane in carica per tre anni.
+L'attuale **Consiglio Direttivo** è stato eletto in occasione dell'Assemblea dei Soci del **28 novembre 2025**. Il Consiglio rimane in carica per tre anni.
 
-Secondo quanto previsto dall'articolo 12 dello Statuto,  il **5 dicembre 2022** i consiglieri si sono riuniti per la prima volta e hanno eletto il Presidente, il Vicepresidente e il Segretario del Consiglio Direttivo che rimarranno in carica per il triennio 2022/2025.
+Secondo quanto previsto dall'articolo 12 dello Statuto, il **10 dicembre 2025** i consiglieri si sono riuniti per la prima volta e hanno eletto il Presidente, il Vicepresidente e il Segretario del Consiglio Direttivo che rimarranno in carica per il triennio 2025/2028.
 
 
 ||||
 |--- |--- |--- |
-|Presidente|Mariangela BELLERI|dal 05.12.2022|
-|Vicepresidente|Aleardo PALETTI|dal 05.12.2022|
-|Segretaria|Anna PAPA|dal 05.12.2022|
-|Consigliere|Monica GAMBA|dal 05.12.2022|
-|Consigliere|Diego GORDI|dal 05.12.2022|
-|Consigliere|Emilio FUSI|dal 05.12.2022|
+|Presidente|Mariangela BELLERI|dal 10.12.2025|
+|Vicepresidente|Anna PAPA|dal 10.12.2025|
+|Segretario|Annalisa BAGOSSI|dal 10.12.2025|
+|Consigliere|Giulia BOSETTI|dal 10.12.2025|
+|Consigliere|Diego GORDI|dal 10.12.2025|
+|Consigliere|Christiane TASCHNER|dal 10.12.2025|
 
 
 ## Consigli Direttivi precedenti
+
+**30/11/2022 – 28/11/2025**
+Belleri Mariangela (Presidente); Paletti Aleardo (Vicepresidente), Gordi Diego, Fusi Emilio, Gamba Monica, Papa Anna.
+
 
 **27/11/2019 – 30/11/2022**
 Belleri Mariangela (Presidente); Gordi Diego (Vicepresidente), Castelli Massimo (fino al 3/2021), Paletti Aleardo, Papa Anna, Gamba Monica (dal 3/2021).
