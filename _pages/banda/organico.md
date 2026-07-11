@@ -17,10 +17,11 @@ gallery:
 
 {% include gallery %}
 
-### Organico completo al 31.01.2024
+### Organico completo al 30.06.2026
 
 **FLAUTO**
 - Vittorio B. (1995)
+- Chiara C. (2009)
 - Linda F. (2002)
 - Stella F. (2002)
 - Taras M. (2007)
@@ -35,44 +36,42 @@ gallery:
 - Giulia B. (2006)
 - Giulia D. (2007)
 - Giulia G. (2005)
-- Simone F. (2000)
+- Camilla L. (2012)
 - Camilla P. (1993)
-- Silvia S. (2005)
-
-**CLARINETTO BASSO**
-- Luca M. (1992)
 
 **SAXOFONO**
 - Michele A. (2009)
+- Luciano B. (1944)
+- Mattia C. (2010)
 - Francesca G. (2007)
+- Adam M. (2011)
 - Anna P. (1981)
 - Paolo R. (1977)
-- Daniele S. (2009)
+- Daniel S. (2009)
 
 **FAGOTTO**
 - Daniele B. (2003)
 
 **CORNO**
 - Laura B. (1965)
+- Annalaura L. (2007)
 - Alessandro R. (1977)
 - Anna Z. (2004)
 
-**TROMBA e CORNETTA**
+**TROMBA E CORNETTA**
 - Marino B. (1988)
-- Francesco B. (2009)
+- Francesco B. (2010)
 - Matteo C. (1991)
 - Matteo C. (1983)
-- Silvia F. (1988)
-- Filippo G. (2010)
+- Filippo G. (2011)
 - Monica G. (1981)
-- Annalaura L. (2007)
 - Ludovico L. (2009)
 
 **TROMBONE**
 - Valerio C. (1975)
 - Francesco M. (2006)
 
-**FLICORNO**
+**FLICORNO BARITONO**
 - Emilio F. (1976)
 - Alessandro P. (1975)
 
@@ -80,4 +79,8 @@ gallery:
 - Anna G. (2008)
 - Alessandra F. (1987)
 - Nicola M. (2009)
+- Riccardo P. (2010)
 - Nicola S. (2009)
+
+**VIOLONCELLO**
+- Giorgia B. (2008)
