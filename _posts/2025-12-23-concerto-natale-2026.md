@@ -2,7 +2,6 @@
 date: 2025-12-23
 title: Concerto Natale 2025
 author: Bonetti Marino
-tag: primo_piano
 ---
 
 {% include figure image_path="/assets/images/concerti/concerto_natale_2025.jpg" %}

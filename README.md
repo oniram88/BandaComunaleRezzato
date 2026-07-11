@@ -1,5 +1,11 @@
 # Development
 
+# TAG speciali per post
+Se vuoi far si che un post risulti in primo piano della home aggiungi il tag:
+```text
+tag: primo_piano
+```
+
 ## Sviluppo locale con Docker Compose
 
 Prerequisiti: Docker + Docker Compose plugin.
