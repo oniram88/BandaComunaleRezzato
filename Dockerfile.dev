@@ -1,0 +1,19 @@
+FROM ruby:3.1-alpine
+
+RUN apk add --no-cache \
+    build-base \
+    git \
+    imagemagick \
+    imagemagick-dev \
+    libffi-dev \
+    yaml-dev \
+    zlib-dev \
+    jpeg-dev \
+    libpng-dev \
+    tzdata \
+  && gem install bundler:2.4.2 --no-document
+
+WORKDIR /srv/jekyll
+
+EXPOSE 4000
+
